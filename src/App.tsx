@@ -165,8 +165,7 @@ function App() {
 
       <footer>
           <div className="top-footer">
-              <div style={{overflow:"hidden",height:"100%",width:"50%",color: "#0095eb"}}>
-                  <div id='gmap_canvas' style={{height:"300px",width:"100%"}}></div>
+              <div>
                   <img src={maps} alt="localização do ifal"/>
               </div>
               <div className="right-top-footer">
